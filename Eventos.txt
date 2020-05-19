@@ -1,0 +1,148 @@
+01 / 01 / 2020	Herbalife Nutrition	25.00
+02 / 01 / 2020	Leiva			35.00
+03 / 01 / 2020	YouTube			10.00
+04 / 01 / 2020	Joaquin Sabina		35.00
+05 / 01 / 2020	Premios AS		15.00
+06 / 01 / 2020	Estudiantes		30.00
+07 / 01 / 2020	Real Madrid		40.00
+08 / 01 / 2020	Anuel AA		60.00
+09 / 01 / 2020	Rosalía			60.00
+10 / 01 / 2020	Premios ELPAIS		15.00
+11 / 01 / 2020	Marca			30.00
+12 / 01 / 2020	Instagram		50.00
+13 / 01 / 2020	Estudiantes		30.00
+14 / 01 / 2020	Real Madrid		40.00
+15 / 01 / 2020	Izal			40.00
+16 / 01 / 2020	Adele			60.00
+17 / 01 / 2020	Beyonce			60.00
+18 / 01 / 2020	Premios Juventud	30.00
+19 / 01 / 2020	Facebook		50.00
+20 / 01 / 2020	Estudiantes		30.00
+21 / 01 / 2020	Real Madrid		40.00
+22 / 01 / 2020	Taburete		40.00
+23 / 01 / 2020	Imagine Dragons		60.00
+24 / 01 / 2020	Daddy Yankee		60.00
+25 / 01 / 2020	Premios Goya		60.00
+26 / 01 / 2020	LinkedIn		50.00
+27 / 01 / 2020	Estudiantes		30.00
+28 / 01 / 2020	Real Madrid		40.00
+29 / 01 / 2020	Latin Fest		60.00	
+30 / 01 / 2020	Karol G			60.00
+01 / 02 / 2020	Ozuna			60.00
+02 / 02 / 2020	Nicky Jam		60.00
+03 / 02 / 2020	Becky G			60.00
+04 / 02 / 2020	Premios BallonDor	60.00
+05 / 02 / 2020	Repsol			50.00
+06 / 02 / 2020	Estudiantes		30.00
+07 / 02 / 2020	Real Madrid		40.00
+08 / 02 / 2020	Sofia Ellar		40.00	
+09 / 02 / 2020	Aitana			40.00
+10 / 02 / 2020	Homenaje Sabina		40.00
+11 / 02 / 2020	Premios Excelencia	60.00
+12 / 02 / 2020	PyG			50.00
+13 / 02 / 2020	Estudiantes		30.00
+14 / 02 / 2020	Real Madrid		40.00
+15 / 02 / 2020	Rihanna			60.00
+16 / 02 / 2020	Sam Smith		60.00
+17 / 02 / 2020	Justin Bieber		60.00
+18 / 02 / 2020	Premios Ondas		60.00
+19 / 02 / 2020	Dragados		50.00
+20 / 02 / 2020	Estudiantes		30.00
+21 / 02 / 2020	Real Madrid		40.00
+22 / 02 / 2020	Lunay			60.00
+23 / 02 / 2020	ACDC			60.00
+24 / 02 / 2020	Tributo Queen		60.00
+25 / 02 / 2020	Premios UPM		30.00
+26 / 02 / 2020	Spotify			50.00
+27 / 02 / 2020	Estudiantes		30.00
+28 / 02 / 2020	Real Madrid		40.00
+29 / 02 / 2020	Bryant Myers		60.00
+30 / 02 / 2020	Triana Pura		40.00
+01 / 03 / 2020	Los Secretos		40.00
+02 / 03 / 2020	Tributo Amy Winehouse	60.00
+03 / 03 / 2020	Premios TVE		60.00
+04 / 03 / 2020	Cabify			50.00
+05 / 03 / 2020	Amazon			50.00
+06 / 03 / 2020	Estudiantes		30.00
+07 / 03 / 2020	Real Madrid		40.00
+08 / 03 / 2020	WSOP			40.00
+09 / 03 / 2020	Duki			60.00
+10 / 03 / 2020	Batalla de Gallos	50.00
+11 / 03 / 2020	Premios ONCE		30.00
+12 / 03 / 2020	Sorteo Champions	30.00
+13 / 03 / 2020	Estudiantes		30.00
+14 / 03 / 2020	Real Madrid		40.00
+15 / 03 / 2020	League of Legends	50.00
+16 / 03 / 2020	FIFA			50.00	
+17 / 03 / 2020	World of Warcraft	50.00
+18 / 03 / 2020	Premios Primitiva	30.00
+19 / 03 / 2020	Call of Duty		50.00
+20 / 03 / 2020	Estudiantes		30.00
+21 / 03 / 2020	Real Madrid		40.00
+22 / 03 / 2020	Melendi			40.00
+23 / 03 / 2020	Dani Martin		40.00
+24 / 03 / 2020	Pablo Alborán		40.00
+25 / 03 / 2020	Premios Emprende	30.00
+26 / 03 / 2020	Plácido Domingo		40.00
+27 / 03 / 2020	Estudiantes		30.00
+28 / 03 / 2020	Real Madrid		40.00
+29 / 03 / 2020	Ballet 			60.00
+30 / 03 / 2020	Hans Zimmer		60.00
+01 / 04 / 2020	Ludovico Einaudi	60.00
+02 / 04 / 2020	Google			50.00
+03 / 04 / 2020	Premios WPT		30.00
+04 / 04 / 2020	Twitch			50.00
+05 / 04 / 2020	Twitter			50.00
+06 / 04 / 2020	Estudiantes		30.00
+07 / 04 / 2020	Real Madrid		40.00
+08 / 04 / 2020	Bad Bunny		60.00
+09 / 04 / 2020	NBA			60.00
+10 / 04 / 2020	Eminem			60.00
+11 / 04 / 2020	Premios Ruido		30.00
+12 / 04 / 2020	Shakira			60.00
+13 / 04 / 2020	Estudiantes		30.00
+14 / 04 / 2020	Real Madrid		40.00
+15 / 04 / 2020	Pantene			50.00
+16 / 04 / 2020	Desfile Loewe		50.00
+17 / 04 / 2020	Desfile Vogue		50.00
+18 / 04 / 2020	Premios Atenas		30.00
+19 / 04 / 2020	Desfile Massimo Dutti 	50.00
+20 / 04 / 2020	Estudiantes		30.00
+21 / 04 / 2020	Real Madrid		40.00
+22 / 04 / 2020	Desfile Prada		50.00
+23 / 04 / 2020	Desfile Agatha		50.00
+24 / 04 / 2020	Desfile Victoria Secret	50.00
+25 / 04 / 2020	Premios Telva		30.00
+26 / 04 / 2020	Edurne			50.00
+27 / 04 / 2020	Estudiantes		30.00
+28 / 04 / 2020	Real Madrid		40.00
+29 / 04 / 2020	Paul McCartney		60.00
+30 / 04 / 2020	Mike Jagger		60.00
+01 / 05 / 2020	Alaska			40.00
+02 / 05 / 2020	Coque Maya		40.00
+03 / 05 / 2020	Fito y Fitipaldis	40.00
+04 / 05 / 2020	Premios Talent		30.00
+05 / 05 / 2020	Rosalen			40.00
+06 / 05 / 2020	Estudiantes		30.00
+07 / 05 / 2020	Real Madrid		40.00
+08 / 05 / 2020	Cantajuego		40.00
+09 / 05 / 2020	Abraham Mateo		40.00
+10 / 05 / 2020	India Martinez		40.00
+11 / 05 / 2020	Premios UAM		30.00
+12 / 05 / 2020	Andrea Bocelli		60.00
+13 / 05 / 2020	Estudiantes		30.00
+14 / 05 / 2020	Real Madrid		40.00
+15 / 05 / 2020	Anastasia		60.00
+16 / 05 / 2020	Mecano			40.00	
+17 / 05 / 2020	Raphael			40.00
+18 / 05 / 2020	Premios Iris		30.00
+19 / 05 / 2020	David Bisbal		40.00
+20 / 05 / 2020	Estudiantes		30.00
+21 / 05 / 2020	Real Madrid		40.00
+22 / 05 / 2020	Tributo Michael Jackson	60.00
+23 / 05 / 2020	Macklemore		60.00
+24 / 05 / 2020	Farruko			60.00
+25 / 05 / 2020	Premios ICON		30.00
+26 / 05 / 2020	Natti Natasha		60.00
+27 / 05 / 2020	Estudiantes		30.00
+28 / 05 / 2020	Real Madrid		40.00
